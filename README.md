@@ -30,4 +30,4 @@ We proposed and implemented an alternate measure of perplexity in Section 3.2 of
 Example evaluation: `python evaluate.py --cuda --data './data/tweets' --model './models/twitter-model.pt' --bins 4`
 
 ## Contact
-If there are any questions or concerns about the code or paper, please contact Tina Fang at tbfang@edu.uwaterloo.ca. We would love to hear your feedback!
+If there are any questions or concerns about the code or paper, please contact Tina Fang at fang.tina1@gmail.com. We would love to hear your feedback!
